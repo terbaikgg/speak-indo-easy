@@ -27,7 +27,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2 text-primary font-bold text-xl">
             <Gamepad2 className="w-8 h-8" />
             <span className="bg-gaming-gradient bg-clip-text text-transparent">
-              Gaming Joki Pro
+              JOKIIN GG
             </span>
           </Link>
 
